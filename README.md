@@ -6,7 +6,11 @@ Conducted EDA to analyze key factors affecting flight delays (weather, airport c
 
 Technologies Used:
 Big Data Processing: Hadoop, HDFS, Spark, PySpark
+
 ETL & Storage: Hive, CSV
+
 Machine Learning: Regression models for delay prediction
+
 Data Visualization: Tableau, EDA
+
 Automation & Deployment: VM, Shell Scripting
